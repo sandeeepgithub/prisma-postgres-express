@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/sandeeepgithub/prisma-postgres-express.git
-cd crud-express-nodejs
+cd prisma-postgres-express
 ```
 
 ### 2. Install Dependencies
