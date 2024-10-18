@@ -4,7 +4,6 @@
 
 - Node.js
 - Docker
-- PostgreSQL (running on port 5432)
 
 ## Getting Started
 
@@ -76,7 +75,8 @@ npm install
 ### 5. Set Up Express Server
 
 1. **Change `index.js` File:**
-   - Set up your changes in Express server to handle CRUD operations using Prisma.
+
+Set up your changes in Express server to handle CRUD operations using Prisma.
 
 ### 6. Start the Application
 
